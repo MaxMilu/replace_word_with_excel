@@ -1,2 +1,5 @@
 # replace_word_with_excel
-Python 根据excel文档数据自动替换word文件对应字段
+Python 参考网络上的例子制作
+根据excel文档数据自动替换word文件对应字段
+
+自己使用需要根据替换内容自行修改代码
